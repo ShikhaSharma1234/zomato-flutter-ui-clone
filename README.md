@@ -1,16 +1,13 @@
-# zomato_ui
+# Zomato Flutter UI Clone
 
-A new Flutter project.
+This is a user interface clone of the Zomato mobile app's homepage, built entirely with Flutter. The goal of this project was to practice building complex UIs and replicating the look and feel of a popular, real-world application.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* **Homepage Replication:** The layout of the main Zomato homepage is fully replicated.
+* **Scrolling Lists:** Implements the vertical scrolling list of restaurants and horizontal scrolling categories.
+* **Styling:** Matches the color scheme, fonts, and styling of the original application's UI.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ How I Built It
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was an exercise in learning and practicing Flutter UI development. My process involved using generative AI for rapid code generation and scaffolding, followed by manual customization and debugging to achieve the final, pixel-perfect design.
